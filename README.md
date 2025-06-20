@@ -1,4 +1,4 @@
-# coe379_project4
+# COE379 - Neural Architecture Search
 
 Due to GitHub's file size limits, the following project folders are hosted externally:
 
